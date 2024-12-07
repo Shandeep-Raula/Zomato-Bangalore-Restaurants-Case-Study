@@ -1,5 +1,7 @@
 # Zomato Bangalore Restaurants Case Study  
 
+![Zomato](https://github.com/Shandeep-Raula/Zomato-Bangalore-Restaurants-Case-Study/blob/main/Zomato_logo.png)
+
 ## Overview  
 This dataset provides information about restaurants in Bangalore listed on Zomato. The data includes various categories of restaurants such as Buffets, Cafes, Delivery services, Desserts, Dine-out options, Drinks & nightlife, and Pubs & bars. It aims to help users identify the best restaurants based on their preferences and requirements.  
 
