@@ -51,7 +51,7 @@ To ensure the dataset is clean, consistent, and ready for analysis, the followin
    Identified and removed duplicate rows to ensure data integrity.  
 
 4. **Cleaning Individual Columns**:  
-   - Standardized text data (e.g., removing extra spaces, converting to lowercase).  
+   - Standardized text data (e.g. converting to lowercase).  
    - Corrected spelling errors in categorical values.  
 
 5. **Handling Missing Values**:  
@@ -61,4 +61,3 @@ To ensure the dataset is clean, consistent, and ready for analysis, the followin
 6. **Additional Transformations**:  
    - Converted data types (e.g., from string to numeric) for analysis compatibility.  
    - Extracted useful information from combined columns.  
-   - Added calculated fields for deeper insights (e.g., average cost per person).  
